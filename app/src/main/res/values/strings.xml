@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sdk-module-app</string>
+    <string name="name">salut</string>
+    <string name="pokemon_default_name">Nom du pokemon</string>
+    <string name="default_name">pokemon url</string>
+    <string name="default_url">pokemon url</string>
+</resources>
